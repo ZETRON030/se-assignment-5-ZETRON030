@@ -208,11 +208,11 @@ HOW TO INTEGRATE GIT WITH VS CODE FOR VERSION CONTROL; The following steps descr
 1. Locate and click the three dotted lines on the Side Bar
 2. Select Terminal and click on New Terminal( A new terminal will be created just below the editor group)
 3. Locate and click on the arrow beside the default terminal which is window powershell at the far right-hand side to 
-   reveal other terminal options
-4. Select Git bash terminal
+   reveal other terminal options.
+4. Select Git bash terminal.![see image](image-8.png)
 5. On the integrated Git bash terminal type the following command;
 6. Type in 'git add .' and press enter key. This Add the file or folder to pushed
-7. Type in 'git commit -m 'message' and press the enter key. This saves the added file or folder
+7. Type in 'git commit -m 'message' and press the enter key. This saves the added file or folder.![see image](image-9.png)
 8. Type in 'git push'. This is meant to push the saved file or folder to GitHub to update the  nearby repository
 9. Locate and click on the Run Code icon located at the top-right corner of the VS Code window to run the code.
 10. Open the repository on GitHub to see the pushed file or folder.  
